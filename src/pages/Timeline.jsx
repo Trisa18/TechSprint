@@ -13,7 +13,7 @@ const timelineEvents = [
     {
         date: 'Dec 12 - Dec 26, 2025',
         title: 'Registration & Team Formation',
-        description: 'Host & Report 1st Event. Gather your team and sign up.',
+        description: ' Gather your team and sign up.',
         icon: <img src="https://img.freepik.com/premium-vector/connections-vector-illustration_777877-8620.jpg" alt="Registration" />
     },
     {
@@ -25,7 +25,7 @@ const timelineEvents = [
     {
         date: 'Dec 28 - 1 Jan, 2026',
         title: 'Initial Evaluations',
-        description: 'Host & Report 2nd Event. Projects are reviewed by judges.',
+        description: 'Projects are reviewed by judges.',
         icon: <img src="https://cdn-icons-png.flaticon.com/512/7650/7650845.png" alt="Evaluation" />
     },
     {
@@ -37,7 +37,7 @@ const timelineEvents = [
     {
         date: 'Yet to be Announced',
         title: 'Top 10 Teams Pitching',
-        description: 'Host & Report 3rd Event. Finalists present their solutions.',
+        description: 'Finalists present their solutions.',
         icon: <img src="https://cdn-icons-png.flaticon.com/512/1999/1999349.png" alt="Pitching" />
     },
     {

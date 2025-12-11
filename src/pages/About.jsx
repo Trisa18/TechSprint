@@ -6,7 +6,7 @@ const benefits = [
     {
         icon: <img src="https://cdn1.iconfinder.com/data/icons/project-management-2-14/136/110-512.png" alt="Prizes" />,
         title: 'Win Big Prizes',
-        description: 'Win Exciting Prizes and exclusive swag for winners.'
+        description: 'Top 3 winners are directly rewarded by Google with exiting cash price and Google swags and goodies'
     },
     {
         icon: <img src="https://cdn-icons-png.flaticon.com/512/6171/6171865.png" alt="Networking" />,
