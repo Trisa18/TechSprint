@@ -1,0 +1,90 @@
+.problems-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.problem-card {
+    padding: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.problem-card:hover {
+    border-color: var(--primary);
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.problem-icon-wrapper {
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    background: rgba(99, 102, 241, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary);
+    overflow: hidden;
+}
+
+.problem-icon-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.problem-card h3 {
+    font-size: 1.5rem;
+}
+
+.problem-card p {
+    color: var(--text-muted);
+    line-height: 1.7;
+}
+
+.main-problem-card {
+    padding: 3rem;
+    text-align: center;
+    margin-bottom: 4rem;
+    border: 1px solid var(--primary-glow);
+}
+
+.main-problem-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.main-problem-header img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
+
+.main-problem-header h2 {
+    font-size: 2.5rem;
+    color: var(--text-main);
+}
+
+.main-problem-desc {
+    font-size: 1.25rem;
+    color: var(--text-muted);
+    max-width: 800px;
+    margin: 0 auto 1.5rem;
+}
+
+.main-problem-note {
+    font-size: 1rem;
+    color: var(--primary);
+    font-weight: 500;
+}
+
+.mt-5 {
+    margin-top: 4rem;
+}
