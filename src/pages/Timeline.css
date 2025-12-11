@@ -110,7 +110,7 @@
 
     .timeline-icon,
     .timeline-item.right .timeline-icon {
-        left: 10px;
+        left: -50px;
         right: auto;
     }
 }

@@ -87,6 +87,15 @@
 }
 
 @media (max-width: 768px) {
+    .navbar {
+        background: #050505 !important;
+        /* Solid almost-black background */
+        backdrop-filter: none;
+        /* Remove glass blur if it causes issues */
+        padding: 0.5rem 0;
+        border-bottom: 1px solid var(--glass-border);
+    }
+
     .desktop-menu {
         display: none;
     }
