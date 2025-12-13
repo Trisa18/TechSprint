@@ -37,7 +37,7 @@ const timelineEvents = [
     {
         date: 'Yet to be Announced',
         title: 'Top 10 Teams Pitching',
-        description: 'Finalists present their solutions.',
+        description: 'Offline 9 hrs hackathon @ VVCE.',
         icon: <img src="https://cdn-icons-png.flaticon.com/512/1999/1999349.png" alt="Pitching" />
     },
     {

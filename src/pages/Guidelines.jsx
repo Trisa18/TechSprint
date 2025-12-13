@@ -26,7 +26,7 @@ const Guidelines = () => {
                         <ul className="rules-list">
                             <li>Projects created after <strong>1st December, 2025</strong> will be accepted for submission.</li>
                             <li><strong>Language Requirement:</strong> All submission materials (code, documentation, presentations) must be in <strong>English</strong>.</li>
-                            <li>Teams can have 2-4 members.</li>
+                            <li>Teams can have 1-4 members.</li>
                             <li>Google Technology (Mandatory Requirement)
                                 Participants must integrate at least one Google technology in their solution.This includes tools such as Google Gemini,Google Al Studio ,Firebase, Google Cloud Platform, Other relevant Google technologies.</li>
                             <li>Participants must clearly demonstrate how these technologies are incorporated into their solution.</li>
