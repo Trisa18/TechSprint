@@ -17,25 +17,25 @@ const timelineEvents = [
         icon: <img src="https://img.freepik.com/premium-vector/connections-vector-illustration_777877-8620.jpg" alt="Registration" />
     },
     {
-        date: 'Dec 12 -Dec 28, 2025',
+        date: 'Dec 12 -Jan 10, 2025',
         title: 'Project Submission',
         description: 'Submit your initial project proposal and details.',
         icon: <img src="https://cdn4.iconfinder.com/data/icons/communication-616/53/67-512.png" alt="Submission" />
     },
     {
-        date: 'Dec 28 - 1 Jan, 2026',
+        date: 'Jan 10 -Jan 12, 2026',
         title: 'Initial Evaluations',
         description: 'Projects are reviewed by judges.',
         icon: <img src="https://cdn-icons-png.flaticon.com/512/7650/7650845.png" alt="Evaluation" />
     },
     {
-        date: 'Jan 01, 2026',
+        date: 'Jan 12, 2026',
         title: 'Top 10 Announcement',
         description: 'The top 10 teams selected for the final round are announced.',
         icon: <img src="https://static.vecteezy.com/system/resources/previews/020/887/562/non_2x/announcement-icon-vector.jpg" alt="Top 10" />
     },
     {
-        date: 'Yet to be Announced',
+        date: 'Jan 16 2026',
         title: 'Top 10 Teams Pitching',
         description: 'Offline 9 hrs hackathon@VVCE.Timings:9am to 6pm',
         icon: <img src="https://cdn-icons-png.flaticon.com/512/1999/1999349.png" alt="Pitching" />
