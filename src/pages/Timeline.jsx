@@ -41,7 +41,7 @@ const timelineEvents = [
         icon: <img src="https://cdn-icons-png.flaticon.com/512/1999/1999349.png" alt="Pitching" />
     },
     {
-        date: 'Yet to be Announced',
+        date: 'Jan 16 2026',
         title: 'Top 3 Announcement - Final',
         description: 'The winners of TechSprint are revealed.',
         icon: <img src="https://cdn-icons-png.flaticon.com/512/5003/5003523.png" alt="Winners" />
